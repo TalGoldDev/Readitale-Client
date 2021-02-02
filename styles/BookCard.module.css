@@ -1,0 +1,41 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 15px;
+  text-align: left;
+  max-width: 40%;
+  justify-content: start;
+}
+
+.coverImage {
+  height: auto;
+  width: 100%;
+  border-radius: 25px;
+}
+
+.title {
+  font-size: 6vw;
+  font-weight: bold;
+}
+
+.author {
+  margin-top: 3vw;
+  font-size: 4vw;
+  flex-grow: 1;
+}
+
+.stars {
+  color: #611231;
+  font-size: 4vw;
+  align-self: flex-start;
+}

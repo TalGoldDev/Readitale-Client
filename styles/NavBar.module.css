@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: var(--white-color);
+  border: 3px solid var(--div-color);
+
+  border-radius: 50px;
+  padding: 2vw;
+
+  position: fixed;
+  bottom: 0;
+  width: 96.5%;
+
+  font-size: 2vw;
+}
