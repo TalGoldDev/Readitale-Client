@@ -2,7 +2,7 @@ import React from "react";
 
 export const BookCard = () => {
   return (
-    <div className="flex space-x-4 border-b-2 pb-4 pt-4">
+    <div className="flex space-x-4 border-b-2 pb-4">
       <div className="h-auto w-auto">
         <img
           src="https://edit.org/images/cat/book-covers-big-2019101610.jpg"
