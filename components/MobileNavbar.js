@@ -6,8 +6,8 @@ export const MobileNavbar = () => {
 
   if (width < 640) {
     return (
-      <div className="">
-        <div className="fixed bottom-5 right-6 shadow-2xl flex w-11/12 justify-evenly p-3 bg-white rounded-full">
+      <div className="fixed bottom-7 w-11/12 self-center ">
+        <div className="font-semibold text-md flex justify-evenly p-1 bg-white rounded-full shadow-2xl border-2 border-gray-200">
           <div className="flex flex-col items-center">
             <p>🧭</p>
             <a>Explore</a>
