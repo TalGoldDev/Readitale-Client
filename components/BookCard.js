@@ -1,6 +1,6 @@
 import React from "react";
 
-export const BookCard = () => {
+export const BookCard = (props) => {
   return (
     <div className="flex space-x-4 border-b-2 pb-4">
       <div className="h-auto w-auto">
@@ -12,13 +12,14 @@ export const BookCard = () => {
       <div className=" flex flex-col justify-between">
         <div>
           <h1 className="text-2xl font-semibold	">Book Title</h1>
-          <h1 className="text-2xl">Author</h1>
+          <h1 className="text-2xl truncate w-32">By: {props.author}</h1>
           <button className="bg-pink-300 rounded p-2 w-full text-white text-lg font-semibold shadow-md mt-8">
             Read Now!
           </button>
         </div>
         <div>
-          <h1 className="text-lg pb-2">Likes: ⭐⭐⭐⭐⭐</h1>
+          <h1 className="text-lg pb-2">Likes: {props.score}</h1>
+          <h1 className="text-lg pb-2">⭐⭐⭐⭐⭐</h1>
         </div>
       </div>
     </div>
