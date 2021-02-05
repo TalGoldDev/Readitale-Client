@@ -9,7 +9,6 @@ function MyApp({ Component, pageProps }) {
       <div className="flex flex-col max-w-screen-xl m-auto">
         <Header></Header>
         <Component {...pageProps} className="flex-grow" />
-        <MobileNavbar></MobileNavbar>
         <Footer></Footer>
       </div>
     </div>

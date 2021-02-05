@@ -8,11 +8,12 @@ export const MobileNavbar = () => {
     return (
       <div className="fixed bottom-7 w-11/12 self-center ">
         <div className="border-r-2 font-semibold text-md flex justify-evenly p-1 bg-white rounded-full shadow-2xl border-2 border-gray-200">
-          <div className="flex flex-col items-center">
-            <p>🧭</p>
-            <a>Explore</a>
-          </div>
-
+          <a href="/">
+            <div className="flex flex-col items-center">
+              <p>🧭</p>
+              <a>Explore</a>
+            </div>
+          </a>
           <div className="flex flex-col items-center">
             <p>📖</p>
             <a>Read</a>
