@@ -1,34 +1,95 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<!-- PROJECT LOGO -->
+<br />
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://i.imgur.com/lwMiN7H.png" alt="KorotHaim" width="800"></a>
+</h1>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center">
+  
+  
+  <h3 align="center">Readitale - Writing Prompts</h3>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <p align="center">
+    A responsive writing prompts online reader built using Nextjs React & Tailwindcss!
+    <br />
+  
+   <p align="center">
+  ![screenshot](https://s2.gifyu.com/images/readitale.gif)
+  </p>
+  
+  <p align="center">
+  <strong>Explore the docs:</strong>
+  <br/>
+    <a href="https://github.com/VirgoA/Readitale-Client"><strong>« Client »</strong></a>
+  <br/>
+      <a href="https://github.com/VirgoA/Readitale-Server"><strong>« Server »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/VirgoA/Readitale-Client/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/VirgoA/Readitale-Client/issues">Request Feature</a>
+  </p>
+  </p>
+</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+  </ol>
+</details>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<div>
+User interface for Web:<br />
+<img src="https://i.imgur.com/ShzxJ6u.png" width="400px" />
+<br /><br />
+User interface for mobile:<br />
+<img src="https://i.imgur.com/c6SfCS4.png" width="200px" />
+</div>
 
-## Deploy on Vercel
+The app is made for easier browsing of the best writing prompts on reddit, Providing an elegent solution and a responsive webapp.<br />
+with a summary feature + an always updating list of all the best & latest writing prompts posted online!.
+<br />
+<br />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* [Nextjs](https://nextjs.org/)
+* [React](https://reactjs.org/)
+* [TailwindCSS](https://tailwindcss.com/)
+* [Nodejs](https://nodejs.org/)
+* [MongoDB](https://www.mongodb.com/)
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Project Link: [https://github.com/VirgoA/Readitale-Client](https://github.com/VirgoA/Readitale-Client)
+
+## License
+[MIT](https://tldrlegal.com/license/mit-license)
+
+## Contributing
+Please take a look at the [contributing](#) guidelines if you're interested in helping!
+
+> GitHub [@virgoA](https://github.com/virgoA) &nbsp;&middot;&nbsp;
