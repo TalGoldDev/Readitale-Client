@@ -15,10 +15,10 @@
   <p align="center">
     A responsive writing prompts online reader built using Nextjs React & Tailwindcss!
     <br />
-  
-   <p align="center">
-  ![screenshot](https://s2.gifyu.com/images/readitale.gif)
+  <p align="center">
+  <img src="https://s2.gifyu.com/images/readitale.gif" width="400" />
   </p>
+
   
   <p align="center">
   <strong>Explore the docs:</strong>
